@@ -2,25 +2,25 @@
     background-color: blue;
     width: 200px;
     height: 200px;
-    margin-left: 620px;
+    left: 620px;
     position: absolute;
-    margin-top: 112px;
+    top: 112px;
     z-index: 2;
 }
 .homework3-container:nth-child(1) {
     background-color: red;
     width: 200px;
     height: 200px;
-    margin-left: 500px;
+    left: 500px;
     position: absolute;
 }
 .homework3-container:nth-child(3) {
     background-color: rgb(38, 186, 46);
     width: 200px;
     height: 200px;
-    margin-left: 740px;
+    left: 740px;
     position: absolute;
-    margin-top:224px;
+    top:224px;
 }
 .homework3 {
     position: relative;
